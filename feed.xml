@@ -10,7 +10,7 @@
   <language>en-us</language>
   <copyright>© 2025 Kaleb Jeffers</copyright>
 
-  <!-- Podcast Details -->
+  <!-- Podcast Metadata -->
   <itunes:author>Cody Marks</itunes:author>
   <itunes:summary>Youth Retreat 25 Sermons</itunes:summary>
   <itunes:subtitle>Messages from Youth Retreat 25</itunes:subtitle>
@@ -22,13 +22,15 @@
   </itunes:owner>
 
   <itunes:explicit>false</itunes:explicit>
-  <itunes:category text="Religion &amp; Spirituality"/>
+  <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity"/>
+  </itunes:category>
 
   <itunes:type>episodic</itunes:type>
   <podcast:locked>yes</podcast:locked>
 
-  <!-- Podcast cover image (direct link using ?raw=1) -->
-  <itunes:image href="https://itsafrog.github.io/SermonPodcasts/cover.png"/>
+  <!-- Podcast Cover Image -->
+  <itunes:image href="https://dl.dropboxusercontent.com/scl/fi/i5yr8krs8ox8tibw74w6p/ChatGPT-Image-Oct-15-2025-at-11_15_15-AM.png?rlkey=5uyb8gysc4n507jarkybjgzo3&st=24klnn0j"/>
 
   <!-- Atom self-reference -->
   <atom:link href="https://itsafrog.github.io/SermonPodcasts/feed.xml" rel="self" type="application/rss+xml"/>
@@ -41,7 +43,7 @@
     <itunes:summary>Message from Youth Retreat 25</itunes:summary>
     <description>Message from Youth Retreat 25</description>
     <enclosure 
-      url="https://www.dropbox.com/scl/fi/pod99iqtkqxxd3peaqq0j/Be-20Well-2C-20Be-20Happy-20-C1TYfK5Yc7E.mp3?rlkey=e9nkxuve4jouksaniejqo2mdj&st=3uro3eln&raw=1" 
+      url="https://dl.dropboxusercontent.com/scl/fi/pod99iqtkqxxd3peaqq0j/Be-20Well-2C-20Be-20Happy-20-C1TYfK5Yc7E.mp3?rlkey=e9nkxuve4jouksaniejqo2mdj&st=zkujm1ms" 
       length="60649668" 
       type="audio/mpeg"/>
     <guid isPermaLink="false">BeWellBeHappy</guid>
@@ -55,7 +57,7 @@
     <itunes:summary>Message from Youth Retreat 25</itunes:summary>
     <description>Message from Youth Retreat 25</description>
     <enclosure 
-      url="https://www.dropbox.com/scl/fi/z1ce1sw7dok9gsncf3cj3/jeaLOUSY-20-28Be-20You-20Boo-29-20-PlnNKr1x_EQ.mp3?rlkey=64rswlcbjz7app8blrylc3890&st=rlkkkyg8&raw=1" 
+      url="https://dl.dropboxusercontent.com/scl/fi/z1ce1sw7dok9gsncf3cj3/jeaLOUSY-20-28Be-20You-20Boo-29-20-PlnNKr1x_EQ.mp3?rlkey=64rswlcbjz7app8blrylc3890&st=bueagjky" 
       length="58151910" 
       type="audio/mpeg"/>
     <guid isPermaLink="false">jeaLOUSY</guid>
@@ -69,7 +71,7 @@
     <itunes:summary>Message from Youth Retreat 25</itunes:summary>
     <description>Message from Youth Retreat 25</description>
     <enclosure 
-      url="https://www.dropbox.com/scl/fi/8lawlr41kfdaevnwsh25j/Never-20Be-20The-20Same-20-UODk8tGrc9A.mp3?rlkey=026ddvh977fejocg9bgkb8lcz&st=mvbgkakj&raw=1" 
+      url="https://dl.dropboxusercontent.com/scl/fi/8lawlr41kfdaevnwsh25j/Never-20Be-20The-20Same-20-UODk8tGrc9A.mp3?rlkey=026ddvh977fejocg9bgkb8lcz&st=srspacg0" 
       length="57960974" 
       type="audio/mpeg"/>
     <guid isPermaLink="false">NeverBeTheSame</guid>
@@ -83,7 +85,7 @@
     <itunes:summary>Message from Youth Retreat 25</itunes:summary>
     <description>Message from Youth Retreat 25</description>
     <enclosure 
-      url="https://www.dropbox.com/scl/fi/k0i02cp0e1fzpfu0f405a/Engagement-20Over-20Equipment-20-vfdIT8-TY_A.mp3?rlkey=abpr7nqzo154ysp7locoyb9u6&st=69e4ioa6&raw=1" 
+      url="https://dl.dropboxusercontent.com/scl/fi/k0i02cp0e1fzpfu0f405a/Engagement-20Over-20Equipment-20-vfdIT8-TY_A.mp3?rlkey=abpr7nqzo154ysp7locoyb9u6&st=ramwh03i" 
       length="46676295" 
       type="audio/mpeg"/>
     <guid isPermaLink="false">EngagementOverEquipment</guid>
