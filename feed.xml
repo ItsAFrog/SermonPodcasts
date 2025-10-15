@@ -22,7 +22,7 @@
   </itunes:owner>
 
   <itunes:explicit>false</itunes:explicit>
-  <itunes:category text="Religion & Spirituality"/>
+  <itunes:category text="Religion &amp; Spirituality"/>
 
   <itunes:type>episodic</itunes:type>
   <podcast:locked>yes</podcast:locked>
